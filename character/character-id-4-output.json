@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "4",
+      "name": "Beth Smith",
+      "species": "Human",
+      "status": "Alive",
+      "type": "",
+      "gender": "Female"
+    }
+  }
+}
